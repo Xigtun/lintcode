@@ -6,5 +6,6 @@
         <page name='NextPermutation'/>
         <page name='ValidSudoku'/>
         <page name='4Sum'/>
+        <page name='Trapping Rain Water'/>
     </pages>
 </playground>
