@@ -7,5 +7,10 @@
         <page name='ValidSudoku'/>
         <page name='4Sum'/>
         <page name='Trapping Rain Water'/>
+        <page name='Rotate Image'/>
+        <page name='MergeSort'/>
+        <page name='InsertionSort'/>
+        <page name='SelectionSort'/>
+        <page name='BubbleSort'/>
     </pages>
 </playground>
