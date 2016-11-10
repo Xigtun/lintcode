@@ -12,5 +12,6 @@
         <page name='InsertionSort'/>
         <page name='SelectionSort'/>
         <page name='BubbleSort'/>
+        <page name='QuickSort'/>
     </pages>
 </playground>
